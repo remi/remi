@@ -6,4 +6,4 @@ I enjoy writing code, deploying Cloud Native applications and helping developmen
 
 I also enjoy (among other things) 🏗 open-source code, 🥪 sandwiches, 🍺 craft beer, 👨‍👩‍👧 my family, 🎧 hip-hop, ⛲ Wikipedia… and emoji.
 
-My [personal website](https://exomel.com/en) has more information about me.
+My [personal website](https://exomel.com) has more information about me.
