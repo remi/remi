@@ -1,6 +1,6 @@
 👋 Bonjour, I’m Rémi.
 
-I’m Director, Web Development at [Mirego](https://www.mirego.com/en) in Quebec City, Canada.
+I’m Partner & Director, Web Development at [Mirego](https://www.mirego.com/en) in Quebec City, Canada.
 
 I enjoy writing code, deploying Cloud Native applications and helping development teams build high-performance and maintainable digital products, using the best possible practices, patterns and tools.
 
